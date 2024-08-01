@@ -1,0 +1,16 @@
+/Users/user/Projects/testcmake/build/CMakeFiles/MyProject.dir
+/Users/user/Projects/testcmake/build/CMakeFiles/edit_cache.dir
+/Users/user/Projects/testcmake/build/CMakeFiles/rebuild_cache.dir
+/Users/user/Projects/testcmake/build/helpers/CMakeFiles/Helpers.dir
+/Users/user/Projects/testcmake/build/helpers/CMakeFiles/edit_cache.dir
+/Users/user/Projects/testcmake/build/helpers/CMakeFiles/rebuild_cache.dir
+/Users/user/Projects/testcmake/build/project/CMakeFiles/Project.dir
+/Users/user/Projects/testcmake/build/project/CMakeFiles/edit_cache.dir
+/Users/user/Projects/testcmake/build/project/CMakeFiles/rebuild_cache.dir
+/Users/user/Projects/testcmake/build/tests/CMakeFiles/tests.dir
+/Users/user/Projects/testcmake/build/tests/CMakeFiles/edit_cache.dir
+/Users/user/Projects/testcmake/build/tests/CMakeFiles/rebuild_cache.dir
+/Users/user/Projects/testcmake/build/vendors/gtest-1.7.0/CMakeFiles/gtest.dir
+/Users/user/Projects/testcmake/build/vendors/gtest-1.7.0/CMakeFiles/gtest_main.dir
+/Users/user/Projects/testcmake/build/vendors/gtest-1.7.0/CMakeFiles/edit_cache.dir
+/Users/user/Projects/testcmake/build/vendors/gtest-1.7.0/CMakeFiles/rebuild_cache.dir
